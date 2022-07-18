@@ -1,0 +1,6 @@
+W:\Library\Visual\ClasesDeLaHuerta\bin\Debug\ClasesDeLaHuerta.dll
+W:\Library\Visual\ClasesDeLaHuerta\bin\Debug\ClasesDeLaHuerta.pdb
+W:\Library\Visual\ClasesDeLaHuerta\obj\Debug\ClasesDeLaHuerta.csproj.AssemblyReference.cache
+W:\Library\Visual\ClasesDeLaHuerta\obj\Debug\ClasesDeLaHuerta.csproj.CoreCompileInputs.cache
+W:\Library\Visual\ClasesDeLaHuerta\obj\Debug\ClasesDeLaHuerta.dll
+W:\Library\Visual\ClasesDeLaHuerta\obj\Debug\ClasesDeLaHuerta.pdb
