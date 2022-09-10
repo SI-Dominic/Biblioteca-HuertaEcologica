@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ClasesDeLaHuerta
 {
-    public class Pedido
+    public class Pedidos
     {
-        private string listaProductos { get; set; }
+        private int numeroPedidos { get; set; }
         private string metodoPago { get; set; }
-        private int cantidadProductos { get; set; }
+        private int cantidad{ get; set; }
 
     }
 }

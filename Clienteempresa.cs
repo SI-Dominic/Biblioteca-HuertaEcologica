@@ -8,6 +8,8 @@ namespace ClasesDeLaHuerta
 {
     public class Clienteempresa : Cliente
     {
+        private string tipoDocumento { get; set; }
+        private int numeroDocumento { get; set; }
         private int rut { get; set; }
         public Clienteempresa(string tipoDocumento, int numeroDocumento, int contraseña, string calle, string barrio, int numero, string esquina, string correoElectronico, int telefono, string departamento) { }
 

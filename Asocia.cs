@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace ClasesDeLaHuerta
 {
-    public class Variedad
+    public class Asocia
     {
-        private string tipo { get; set; }
-        public int unidad { get; set; }
-        public int idVariedad { get; set; }
+        private string principal { get; set; };
 
     }
 }

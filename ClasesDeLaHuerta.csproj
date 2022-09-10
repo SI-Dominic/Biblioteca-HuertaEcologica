@@ -33,6 +33,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlXml" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,7 +43,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Calendario.cs" />
+    <Compile Include="Asocia.cs" />
+    <Compile Include="Conexion.cs" />
+    <Compile Include="Control.cs" />
+    <Compile Include="Encarga.cs" />
+    <Compile Include="clienteTelefono.cs" />
+    <Compile Include="Esta.cs" />
+    <Compile Include="Modelo.cs" />
+    <Compile Include="Planta.cs" />
+    <Compile Include="Realiza.cs" />
     <Compile Include="Stock.cs" />
+    <Compile Include="Tienen.cs" />
     <Compile Include="Usuario.cs" />
     <Compile Include="Variedad.cs" />
     <Compile Include="Sucursal.cs" />
@@ -50,7 +61,7 @@
     <Compile Include="Especie.cs" />
     <Compile Include="Repartidor.cs" />
     <Compile Include="Estado.cs" />
-    <Compile Include="Pedido.cs" />
+    <Compile Include="Pedidos.cs" />
     <Compile Include="Clienteempresa.cs" />
     <Compile Include="Clienteterminal.cs" />
     <Compile Include="Cliente.cs" />

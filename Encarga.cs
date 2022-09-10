@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace ClasesDeLaHuerta
 {
-    public class Repartidor
+    public class Class1
     {
-        private string estado { get; set; }
+        private int numeroPedidos { get; set; }
         private int idRepartidor { get; set; }
+        private int pedidosPendientes { get; set; }
     }
 }

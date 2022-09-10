@@ -8,13 +8,13 @@ namespace ClasesDeLaHuerta
 {
     public class Especie
     {
-        private string epocaSiembra { get; set; }
-        private int profundidadSiembra { get; set; }
+        private int id_especie { get; set; }
         private string metodo { get; set; }
         private string nombre { get; set; }
-        private int cosecha { get; set; }
-        private string trasplantar { get; set; }
-        private int germinacion { get; set; }
+        private DateTime cosecha { get; set; }
+        private DateTime trasplantar { get; set; }
+        private DateTime germinacion { get; set; }
+        private int profundidad { get; set; }
     }
 }
 

@@ -11,6 +11,7 @@ namespace ClasesDeLaHuerta
         private int año { get; set; }
         private int mes { get; set; }
         private int dia { get; set; }
+        private int id_especie { get; set; }
 
     }
 }
